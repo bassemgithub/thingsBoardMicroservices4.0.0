@@ -14,6 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+#
 
 echo "Building ThingsBoard protobuf-containing packages..."
 MAVEN_OPTS="-Xmx1024m" NODE_OPTIONS="--max_old_space_size=3072" \
