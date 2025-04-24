@@ -13,7 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
+# remvove this comment this is a change to remove
 #
 
 echo "Building ThingsBoard protobuf-containing packages..."
