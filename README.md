@@ -30,6 +30,13 @@ ThingsBoard documentation is hosted on [thingsboard.io](https://thingsboard.io/d
 
 Collect and Visualize your IoT data in minutes by following this [guide](https://thingsboard.io/docs/getting-started-guides/helloworld/).
 
+## Repository Maintenance
+
+### Branch Cleanup
+This repository has cleanup scripts and documentation for removing Copilot-generated branches:
+- See [CLEANUP_COPILOT_BRANCHES.md](./CLEANUP_COPILOT_BRANCHES.md) for detailed instructions
+- Run `./cleanup_copilot_branches.sh` to automatically remove remote Copilot branches
+
 ## Support
 
  - [Stackoverflow](http://stackoverflow.com/questions/tagged/thingsboard)
